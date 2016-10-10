@@ -1,11 +1,12 @@
 body{
-  background-color: #c9b5ab
+  background-color: #c9b5ab;
+  font-family:'PT Serif', serif
 }
 
 header, footer{
   font-size: 1.5rem
 }
 
-h1, h2, h3, h4,{
-  
+h1, h2, h3, h4, a,{
+  font-family: 'PT Sans', sans-serif;
 }
