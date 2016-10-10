@@ -1,10 +1,15 @@
 body{
   background-color: #c9b5ab;
   font-family:'PT Serif', serif;
+  font-size: 0.8rem
+}
+
+p{
+  line-height: 1.5
 }
 
 header, footer{
-  font-size: 1.5rem;
+  font-size: 1.125rem;
 }
 
 h1, h2, h3, h4,{
@@ -12,7 +17,15 @@ h1, h2, h3, h4,{
   color: #3f1622;
 }
 
+h1{
+  font-size: 1.5rem
+}
+
 a{
   font-family: 'PT Sans', sans-serif;
   color: #8f2440;
+}
+
+i{
+  font-style: italic;
 }
